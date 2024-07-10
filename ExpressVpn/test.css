@@ -1,0 +1,25 @@
+#contain{
+    clear: both;
+    display: flex;
+    flex-direction: column;
+}
+
+.fake-image{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    float: left;
+    margin-right: 14px;
+    cursor: pointer;
+}
+
+#contain:hover div.text{
+    display: block;
+
+}
+
+.text{
+    background-color: yellow;
+    float:unset; 
+    display: none;    
+}​
