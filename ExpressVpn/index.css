@@ -2215,7 +2215,7 @@ main {
     margin: auto;
     height: auto;
     margin-bottom: 0;
-    border: 2px solid red;
+    
   }
 
   .hero-section .hero-content-wrapper {
@@ -4805,7 +4805,7 @@ main {
     width: 100%;
     flex-direction: column;
     height: inherit;
-    border: 2px solid red;
+    
     gap: 0rem;
   }
 
